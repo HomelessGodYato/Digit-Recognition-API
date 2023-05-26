@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+opencv-python==4.7.0.72
+notebook==6.5.4
+matplotlib==3.7.1
+tensorboard==2.12.3
+Django==4.2.1
+djangorestframework==3.14.0
